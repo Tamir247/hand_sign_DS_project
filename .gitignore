@@ -11,15 +11,6 @@ Hand_gesture/
 *.tar.gz
 *.tar
 
-# Model weights (large binaries)
-*.pt
-*.pth
-
-# YOLO run outputs
-runs/
-outputs/
-outputs_yolo_classification/
-
 # Python cache
 __pycache__/
 *.pyc
