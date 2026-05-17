@@ -1,0 +1,25 @@
+# Python virtual environment
+.venv/
+
+# Dataset image folders
+hand-sign-1/
+hand-sign-drive/
+Hand_gesture/
+
+# Zip / archive files
+*.zip
+*.tar.gz
+*.tar
+
+# Model weights (large binaries)
+*.pt
+*.pth
+
+# YOLO run outputs
+runs/
+outputs/
+outputs_yolo_classification/
+
+# Python cache
+__pycache__/
+*.pyc
